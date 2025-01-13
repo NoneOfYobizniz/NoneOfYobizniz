@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoneOfYobizniz
-- 👀 I’m interested in your mom. probably.
+- 👀 I’m interested in Python.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing. I am a god.
 - 📫 How to reach me: shine BAT signal into the skyline
